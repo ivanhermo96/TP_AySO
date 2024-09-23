@@ -1,0 +1,7 @@
+ivan:x:1000:1000:ivan debian,,,:/home/ivan:/bin/bash
+root:x:0:0:root:/root:/bin/bash
+Debian-gdm:x:112:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
+gnome-initial-setup:x:111:65534::/run/gnome-initial-setup/:/bin/false
+speech-dispatcher:x:105:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+tss:x:100:107:TPM software stack,,,:/var/lib/tpm:/bin/false
+sync:x:4:65534:sync:/bin:/bin/sync
