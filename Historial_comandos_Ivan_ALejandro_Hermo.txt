@@ -1,0 +1,159 @@
+exit
+mkdir repogit
+cd repogit
+git clone git@github.com:ivanhermo96/TP_AySO.git
+cd $HOME
+cd .ssh
+cd ssh2key.pub
+cd ssh2key
+cd ssh2key.pub.ub
+cd sshkey2.pub.pub
+help
+apt-get install git
+ssh-keygen
+ssh-keygen
+su
+cd sshkey2.pub
+debian-view sshkey2.pub
+xdg-view sshkey2.pub
+cat sshkey2.pub
+ssh-keygen
+cat sshkey
+cat sshkey.pub
+cd
+cd
+cd home
+cd $HOME
+cd HOME
+sudo apt update
+sudo apt install tcpdump
+ls -a
+keygen- ssh
+ssh-keygen
+ls -a
+cd sshkey.pub
+cat sshkey.pub
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+cd .ssh
+ls -a
+ls
+ls -a
+ls -b
+ls -a
+cd .
+cd .ssh
+ls -a
+ssh-keygen
+ls -a
+cd
+cd
+ls -a
+cd .ssh
+ls -a
+cat id-rsa.pub
+cat id_rsa.pub
+cd
+cd home
+cd HOME
+ls -a
+cd
+ls -a
+cd .profile
+cd
+cd /HOme
+cd /home
+cd /ivan
+ls -a
+cd /ivan
+cd repogit
+git clone git@github.com:ivanhermo96/TP_AySO.git
+cd TP_AySO/
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)">datos_usuario.txt
+git.add
+git add
+git add.
+git add
+git add .
+git config --global user.email "ivanalejadnrohermo@gmail.com
+git config --global user.name "ivanhermo96"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+help
+git config --global user.email "ivanalejadnrohermo@gmail.com
+git config --global user.name "ivanhermo96"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git add .
+git config --global user.email "ivanalejandrohermo@gmail.com"
+git config --global user.name "ivanhermo96"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n 1
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuarios.txt
+cat datos_usuarios.txt
+git add.
+git add .
+git config --global user.email "ivanalejandrohermo@gmail.com"
+git config --global user.name "ivanhermo96"
+git commit -m "feat:Añadiendo información de CPU"
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n 10
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t ':' -k 7
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t ':' -k 7 > lista_ordenada
+git status
+git add lista_ordenada
+git status
+git restore --staged lista_ordenada
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+echo "tcpdump" > comando_dump_net
+echo "tcpdump -i eth0" >> comando_dump_net
+ip link show
+cat comando_dump_net
+git add comando_dump_net
+git add lista_ordenada
+git status
+git commit -m "ADD: Comando para capturar y analizar el tráfico de red"
+git status
+cat <<EOF >> README.md Alumno: Ivan Alejandro Hermo División: 211 Turno: Tarde EOF
+
+
+cat <<EOF >> README.md Alumno: Ivan Alejandro Hermo División: 211 Turno: Tarde EOF
+
+
+git status
+help
+
+
+
+
+
+
+
+
+EOF
+
+cat <<EOF >> README.md
+Alumno: Ivan Alejandro Hermo
+División: 211
+Turno: Tarde
+EOF
+
+cat README.md
+git add README.md
+git status
+git commit -m "docs: Añadida información del alumno al README.md"
+git status
+history -a
